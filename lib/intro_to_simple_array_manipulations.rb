@@ -14,5 +14,5 @@ def pop_with_args(array)
  # x = array[-1]
   #y = array[-2]
   #p y, x
-  array[-2, -1]
+  p array[-2, -1]
 end
