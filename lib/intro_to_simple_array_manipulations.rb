@@ -23,4 +23,8 @@ def using_shift(array)
   array.shift
 end
 
-array shift_with_args(array)
+def shift_with_args(array)
+  x = array.shift
+  y = array.shift
+  p x, y
+end
